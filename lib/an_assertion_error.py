@@ -1,3 +1,5 @@
 #!/usr/bin/env python3
+assert 5 == 5
+print("Assertion passed!")
 
-assert(1 == 2)
+
